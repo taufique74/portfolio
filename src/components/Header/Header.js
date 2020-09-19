@@ -47,7 +47,7 @@ NavLink.defaultProps = {
 const Header = () => (
   <HeaderWrapper>
     <Inner>
-      <Logo to="/">Maxi.io</Logo>
+      <Logo to="/">peyash.me</Logo>
       <nav>
         <NavLink to="/">Home</NavLink>
         {/* <NavLink to="/work">Work</NavLink> */}
