@@ -41,7 +41,7 @@ const Footer = () => (
         <FaGithub size={22} />
       </a>
       <a
-        href="http://twitter.com/taufique.peyash"
+        href="http://twitter.com/TaufiquePeyash"
         target="_blank"
         rel="noopener noreferrer"
       >
