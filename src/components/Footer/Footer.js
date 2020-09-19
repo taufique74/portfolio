@@ -34,28 +34,28 @@ const Footer = () => (
     <CopyRight>&copy; {new Date().getYear() + 1900} Thomas Maximini</CopyRight>
     <SocialMedia>
       <a
-        href="http://github.com/tmaximini"
+        href="http://github.com/taufique74"
         target="_blank"
         rel="noopener noreferrer"
       >
         <FaGithub size={22} />
       </a>
       <a
-        href="http://twitter.com/tmaximini"
+        href="http://twitter.com/taufique.peyash"
         target="_blank"
         rel="noopener noreferrer"
       >
         <FaTwitter size={22} />
       </a>
       <a
-        href="https://www.linkedin.com/in/thomas-maximini-98701982/"
+        href="https://www.linkedin.com/in/taufiquzzaman-peyash/"
         target="_blank"
         rel="noopener noreferrer"
       >
         <FaLinkedin size={22} />
       </a>
       <a
-        href="http://instagram.com/mxmn82"
+        href="http://instagram.com/taufique.74"
         target="_blank"
         rel="noopener noreferrer"
       >
