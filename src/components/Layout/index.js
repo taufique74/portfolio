@@ -11,12 +11,12 @@ import "../../styles/index.scss";
 const Layout = ({ children }) => (
   <div>
     <Helmet
-      title="Thomas Maximini: Developer of all things web"
+      title="Taufiquzzaman Peyash"
       meta={[
         {
           name: "description",
           content:
-            "Thomas Maximini is a freelance web developer based in Berlin, Germany"
+            "I'm a full stack developer living in Bangladesh"
         },
         {
           name: "keywords",
