@@ -10,14 +10,14 @@ module.exports = {
   siteLogo: "/logo.png", // Used for SEO and manifest
   siteDescription:
     "Hi! I am Peyash, a freelance software engineer and consultant based in Germany. I'm an expert at modern web technologies such as Javascript, React, Node.js, AWS, serverless. Get in touch if you want to work with me!",
-  author: "ThomasMaximini <tmaximini@gmail.com>", // Author for schema.org JSONLD
+  author: "Taufiquzzaman Peyash <taufiquzzaman.peyash@gmail.com>", // Author for schema.org JSONLD
 
   keywords:
-    "Thomas Maximini, web developer, javascript, node.js, react, freelance, remote, mobile, react native",
+    "Taufiquzzaman Peyash, web developer, javascript, node.js, react, freelance, remote, mobile, react native",
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
-  userTwitter: "@tmaximini", // Twitter Username
-  ogSiteName: "thomasmaximini", // Facebook Site Name
+  userTwitter: "@TaufiquePeyash", // Twitter Username
+  ogSiteName: "taufiQue74", // Facebook Site Name
   ogLanguage: "en_EN", // og:language
   googleAnalyticsID: "UA-111816913-1"
 };
