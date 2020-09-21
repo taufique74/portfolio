@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { Link } from 'gatsby';
 import P from '../Shared/P/P';
-import pic from './icke.png';
+import pic from './rsz_profile.png';
 
 const ProfileWrapper = styled.section`
   text-align: center;
@@ -45,34 +45,24 @@ const Name = styled.h2`
 
 const Profile = () => (
   <ProfileWrapper>
-    <h3>Hi there, I'm Thomas 👋</h3>
+    <h3>Hi there, I'm Peyash 👋</h3>
 
     <P>
-      A software engineer and and product manager living in Germany.
-      <br />
-      Currently I am working with the good folks over at{' '}
-      <a href="https://www.crowdcast.io/" alt="Crowdcast.io">
-        CrowdCast
-      </a>
-      .
+    A Fullstack Developer and an NLP enthusiast living in Bangladesh.  
+    Currently I'm unemployed and looking for opportunities.
     </P>
     <ProfilePic src={pic} />
     <P>
-      I design and implement systems and services around web and cloud
-      technologies. <br />
-      <a href="/uses">Here</a> are some of things I use daily.
+      I design and implement web applications and services around web and cloud technologies. <br />
+      
     </P>
     <P>
-      You can check out my <Link to="/blog">blog ✍️</Link> , or find
-      me online on <a href="http://github.com/tmaximini">Github </a>{' '}
-      and <a href="http://twitter.com/tmaximini">Twitter 🐦</a>.
+      You can  find me online on <a href="http://github.com/taufique74">Github </a>{' '}
+      and <a href="http://twitter.com/TaufiquePeyash">Twitter 🐦</a>.
     </P>
     <P>
-      I am lucky to work fully remote these days. <br />
-      When I find the time I love to travel 🌴 and{' '}
-      <a href="https://www.instagram.com/mxmn82">
-        take photos 📷
-      </a>. <br />
+      In my spare time, I like to explore new technologies and delve into their documentations.
+      <br />
     </P>
   </ProfileWrapper>
 );
