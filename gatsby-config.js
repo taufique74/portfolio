@@ -34,20 +34,20 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-remark-copy-linked-files`,
     `gatsby-transformer-yaml`,
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/posts`,
-        name: "posts"
-      }
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `projects`,
-        path: `${__dirname}/content/projects`
-      }
-    },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     path: `${__dirname}/content/posts`,
+    //     name: "posts"
+    //   }
+    // },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `projects`,
+    //     path: `${__dirname}/content/projects`
+    //   }
+    // },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -104,8 +104,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `thomas-maximini-com`,
-        short_name: `tmaximini`,
+        name: `taufiquzzaman-peyash-me`,
+        short_name: `peyash`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
