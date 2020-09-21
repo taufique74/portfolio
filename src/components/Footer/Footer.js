@@ -31,7 +31,7 @@ const SocialMedia = styled.div`
 
 const Footer = () => (
   <FooterWrapper>
-    <CopyRight>&copy; {new Date().getYear() + 1900} Thomas Maximini</CopyRight>
+    <CopyRight>&copy; {new Date().getYear() + 1900} Taufiquzzaman Peyash</CopyRight>
     <SocialMedia>
       <a
         href="http://github.com/taufique74"
