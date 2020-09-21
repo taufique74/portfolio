@@ -48,7 +48,7 @@ const Profile = () => (
     <h3>Hi there, I'm Peyash 👋</h3>
 
     <P>
-    A Fullstack Developer and an NLP enthusiast living in Bangladesh.  
+    A Fullstack Developer and an NLP enthusiast living in Bangladesh. <br />  
     Currently I'm unemployed and looking for opportunities.
     </P>
     <ProfilePic src={pic} />
