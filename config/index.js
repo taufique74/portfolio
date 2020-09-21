@@ -9,7 +9,7 @@ module.exports = {
   siteLanguage: "en", // Language Tag on <html> element
   siteLogo: "/logo.png", // Used for SEO and manifest
   siteDescription:
-    "Hi! I am Peyash, a freelance software engineer and consultant based in Germany. I'm an expert at modern web technologies such as Javascript, React, Node.js, AWS, serverless. Get in touch if you want to work with me!",
+    "A Fullstack Developer and an NLP enthusiast living in Bangladesh. Currently I'm unemployed and looking for opportunities.",
   author: "Taufiquzzaman Peyash <taufiquzzaman.peyash@gmail.com>", // Author for schema.org JSONLD
 
   keywords:
