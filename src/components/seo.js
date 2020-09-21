@@ -58,7 +58,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image`,
-          content: `https://maxi.io/logo.png`
+          content: `/logo.png`
         },
         {
           property: `og:image:width`,
